@@ -1,0 +1,5 @@
+﻿  Лабораторная работа 2.cpp
+c:\users\user\source\repos\лабораторная работа n2\лабораторная работа 2.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\лабораторная работа n2\лабораторная работа 2.cpp(49): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\лабораторная работа n2\лабораторная работа 2.cpp(100): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лабораторная работа N2.vcxproj -> C:\Users\User\source\repos\Лабораторная работа N2\Debug\Лабораторная работа N2.exe
