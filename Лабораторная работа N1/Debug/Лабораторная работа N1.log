@@ -1,0 +1,5 @@
+﻿  Лабораторная работа N1.cpp
+c:\users\user\desktop\лабораторная работа n1.cpp(90): warning C4101: end: неиспользованная локальная переменная
+c:\users\user\desktop\лабораторная работа n1.cpp(90): warning C4101: beg: неиспользованная локальная переменная
+c:\users\user\desktop\лабораторная работа n1.cpp(198): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лабораторная работа N1.vcxproj -> C:\Users\User\source\repos\Лабораторная работа N1\Debug\Лабораторная работа N1.exe
