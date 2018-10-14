@@ -1,0 +1,4 @@
+﻿  ATM.cpp
+c:\users\user\source\repos\курсовая\atm.cpp(130): warning C4101: e: неиспользованная локальная переменная
+c:\users\user\source\repos\курсовая\atm.cpp(95): warning C4715: ATM::PayMobile: значение возвращается не при всех путях выполнения
+  Курсовая.vcxproj -> C:\Users\User\source\repos\Курсовая\Debug\Курсовая.exe
