@@ -1,0 +1,9 @@
+﻿  Unit_Operation.cpp
+  Unit_Input_Output.cpp
+  Лабораторная_2.cpp
+  Создание кода...
+Unit_Input_Output.obj : error LNK2005: "int SizeCard" (?SizeCard@@3HA) уже определен в Unit_Operation.obj
+Unit_Input_Output.obj : error LNK2005: "struct Librarycard * cards" (?cards@@3PEAULibrarycard@@EA) уже определен в Unit_Operation.obj
+Лабораторная_2.obj : error LNK2005: "int SizeCard" (?SizeCard@@3HA) уже определен в Unit_Operation.obj
+Лабораторная_2.obj : error LNK2005: "struct Librarycard * cards" (?cards@@3PEAULibrarycard@@EA) уже определен в Unit_Operation.obj
+C:\Users\User\source\repos\Лабораторная работа N4\x64\Debug\Лабораторная работа N4 модуль.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
